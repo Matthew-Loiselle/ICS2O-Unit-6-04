@@ -1,0 +1,12 @@
+h2 {
+  font-size: 110%;
+  margin-top: 50px;
+}
+
+#sub-div {
+  float: left;
+}
+
+#diagram {
+  float: right;
+}
